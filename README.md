@@ -41,7 +41,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://yermi.co.kr">
+	<a href="https://drive.google.com/file/d/1sP4zjg5v6AKw-lz1dQlhZMXeXYu3zNvn/view?usp=drive_link">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="https://yermi.tistory.com">
