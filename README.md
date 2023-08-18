@@ -38,7 +38,7 @@
 <a href="">
     <img src="https://img.shields.io/badge/Resume-30B980?style=flat&logo=mdbook&logoColor=white" />
 </a>
-<a href="">
+<a href="https://github.com/AERI-KIM">
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>
 </a>
 <br>
