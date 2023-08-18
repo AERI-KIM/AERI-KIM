@@ -35,7 +35,7 @@
 <a href="https://blog.naver.com/aeri815">
    <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 </a>
-<a href="">
+<a href="https://drive.google.com/file/d/1u2CClklyMS-tryR9vzUADWBt2E-3C73Y/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-30B980?style=flat&logo=mdbook&logoColor=white" />
 </a>
 <a href="https://github.com/AERI-KIM">
