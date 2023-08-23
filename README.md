@@ -7,8 +7,6 @@
 <p><strong>팀플레이어 개발자</strong> 김애리 입니다.</p>
 </div>	
 
-[![발표영상](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=NXt0J5pUHhM&t=938s&ab_channel=%EB%A7%A4%EC%A7%81%EC%97%90%EA%BC%B4magicecole)
-
 <details>
   <summary><b>:mag: 자기소개</b></summary>
   <div markdown="1">
